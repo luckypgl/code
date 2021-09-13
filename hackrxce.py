@@ -127,10 +127,10 @@ if(expirydate>today):
     Third = now.replace(hour=16, minute=55, second=0, microsecond=0)
     Thirdend = now.replace(hour=17, minute=35, second=0, microsecond=0)
     Final = now.replace(hour=17, minute=55, second=0, microsecond=0)
-    Finalend = now.replace(hour=18, minute=35, second=0, microsecond=0)
+    Finalend = now.replace(hour=20, minute=35, second=0, microsecond=0)
 
     if (True):
-            period=345
+            period=372
             hero()
     if(True):
             period=340
